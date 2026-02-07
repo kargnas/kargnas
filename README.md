@@ -1,7 +1,5 @@
 Founder of [OP.GG](https://op.gg). Started building gaming community sites and third-party tools as a kid — been shipping side projects in PHP since 2004, two decades and counting.
 
-🌐 [kargn.as](https://kargn.as)
-
 ### Personal Projects
 
 - [laravel-ai-translator](https://github.com/kargnas/laravel-ai-translator) — AI-powered i18n — translate Laravel language files via Claude, GPT, etc. `PHP`
