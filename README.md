@@ -33,9 +33,9 @@ Founder of [OP.GG](https://op.gg). Started building gaming community sites and t
 - VS Code extensions
 - LLM integration patterns in PHP/Laravel
 
-### What I Mostly Contribute To
+### What I Mostly Worked To
 
-- **AI/LLM integrations**
+- **Automations using LLM**
 - **Laravel packages**
 - **Developer experience tools** — macOS menubar apps, VS Code extensions, CLI utilities
 - **Gaming data infrastructure** — Riot API, Esports data pipelines
