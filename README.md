@@ -13,11 +13,11 @@ Founder of [OP.GG](https://op.gg). Started building gaming community sites and t
 - [vscode-ext-tmux-worktree](https://github.com/kargnas/vscode-ext-tmux-worktree) — Parallel project workflow with tmux + git worktree
 - [vscode-ext-grammar-checker](https://github.com/kargnas/vscode-ext-grammar-checker) — Grammarly-style grammar checker
 
-### External Contributions
+### Other Projects
 
 - [opgginc/opencode-bar](https://github.com/opgginc/opencode-bar) — macOS menubar app — token usage tracker for AI coding agents `Swift`
 - [opgginc/opgg-mcp](https://github.com/opgginc/opgg-mcp) — OP.GG MCP server — AI access to League of Legends stats `TypeScript`
-- [opgginc/opgg-ai-devops](https://github.com/opgginc/opgg-ai-devops) — Automatic AI code review for OP.GG `TypeScript`
+- [opgginc/opgg-ai-devops](https://github.com/opgginc/opgg-ai-devops) 🔒 — Automatic AI code review for OP.GG `TypeScript`
 - [opgginc/laravel-mcp-server](https://github.com/opgginc/laravel-mcp-server) — MCP server package for Laravel (Streamable HTTP + SSE) `PHP`
 - [prism-php/prism](https://github.com/prism-php/prism) — Typed LLM outputs in PHP — supports GPT, Claude, Gemini `PHP`
 
