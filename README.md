@@ -1,4 +1,4 @@
-Founder of OP.GG. Started building gaming community sites and third-party tools as a kid — been shipping side projects in PHP since 2004, two decades and counting.
+Started building gaming community sites and third-party tools as a kid — been shipping side projects in PHP since 2004, two decades and counting.
 
 ### Personal Projects
 
