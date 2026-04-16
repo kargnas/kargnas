@@ -3,6 +3,7 @@ Started building gaming community sites and third-party tools as a kid — been 
 ### Personal Projects
 
 - [laravel-ai-translator](https://github.com/kargnas/laravel-ai-translator) — AI-powered i18n — translate Laravel language files via Claude, GPT, etc. `PHP`
+- [damn-my-slow-kt](https://github.com/kargnas/damn-my-slow-kt) - 명령어 설치 한번으로 한달 KT 인터넷 요금을 무료로 쓸 수 있습니다. 귀찮은 공문 작성 필요 없습니다.
 - [awesome-cheap-flights](https://github.com/kargnas/awesome-cheap-flights) — CLI flight search tool (Google Flights scraper) `Python`
 
 ### VS Code Extensions
