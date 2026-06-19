@@ -7,6 +7,7 @@ Started building gaming community sites and third-party tools as a kid — been 
 - [awesome-cheap-flights](https://github.com/kargnas/awesome-cheap-flights) — CLI flight search tool (Google Flights scraper) `Python`
 - [cmux-multiproject-sidebar](https://github.com/kargnas/cmux-multiproject-sidebar) — Enhanced cmux terminal sidebar: project-grouped AI-agent workspaces, live Braille running-spinner, clickable PR/port links `Swift`
 - [cctrans](https://github.com/kargnas/cctrans) — macOS menu-bar translator: double Cmd+C or screenshot → translate via local Hy-MT2 / OpenRouter LLMs `Swift`
+- [mac-optimizer-loop](https://github.com/kargnas/mac-optimizer-loop) — macOS menu-bar agent loop: asks Claude what's overloading your Mac, suggests one-click risk-checked fixes `Swift`
 
 ### VS Code Extensions
 
