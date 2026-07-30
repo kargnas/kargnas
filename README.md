@@ -35,3 +35,5 @@ Started building gaming community sites and third-party tools as a kid — been 
 - **Laravel packages**
 - **Developer experience tools** — macOS menubar apps, VS Code extensions, CLI utilities
 - **Gaming data infrastructure** — Riot API, Esports data pipelines
+
+[![Tokscale Stats](https://tokscale.ai/api/embed/kargnas/svg?theme=light&template=blueprint&color=YlGnBu&graph=1&rank=total&tokens=compact&cost=compact)](https://tokscale.ai/u/kargnas)
